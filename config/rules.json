@@ -1,0 +1,10 @@
+{
+  "minLetters": 5,
+  "maxLetters": 12,
+  "difficultyCurve": {
+    "easy": [1, 2, 3, 4],
+    "medium": [5, 6, 7],
+    "hard": [8, 9, 10]
+  },
+  "hyphenatedWords": false
+}
